@@ -1,4 +1,4 @@
-# **paper_implentations**
+# **ml_repertoire**
 Repository of from scratch implementations for significant machine and deep learning ideas in pyTorch.
 
 ### **Attention Mechanism and Transformers**
